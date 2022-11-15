@@ -1,0 +1,15 @@
+D:\ProgectGame\Sirius\Sirius\bin\Debug\Sirius.exe.config
+D:\ProgectGame\Sirius\Sirius\bin\Debug\Sirius.exe
+D:\ProgectGame\Sirius\Sirius\bin\Debug\Sirius.pdb
+D:\ProgectGame\Sirius\Sirius\obj\Debug\Sirius.csproj.AssemblyReference.cache
+D:\ProgectGame\Sirius\Sirius\obj\Debug\Sirius.csproj.SuggestedBindingRedirects.cache
+D:\ProgectGame\Sirius\Sirius\obj\Debug\Sirius.Form1.resources
+D:\ProgectGame\Sirius\Sirius\obj\Debug\Sirius.Properties.Resources.resources
+D:\ProgectGame\Sirius\Sirius\obj\Debug\Sirius.csproj.GenerateResource.cache
+D:\ProgectGame\Sirius\Sirius\obj\Debug\Sirius.csproj.CoreCompileInputs.cache
+D:\ProgectGame\Sirius\Sirius\obj\Debug\Sirius.exe
+D:\ProgectGame\Sirius\Sirius\obj\Debug\Sirius.pdb
+D:\ProgectGame\Sirius\Sirius\obj\Debug\Sirius.Menu.resources
+D:\ProgectGame\Sirius\Sirius\obj\Debug\Sirius.formsPages.Predistoria.resources
+D:\ProgectGame\Sirius\Sirius\obj\Debug\Sirius.formsPages.StartPosition.resources
+D:\ProgectGame\Sirius\Sirius\obj\Debug\Sirius.formsPages.test.resources
